@@ -26,3 +26,6 @@ __pycache__/
 
 .DS_Store
 **/.DS_Store   # This ignores .DS_Store in all subdirectories
+
+# MLflow files
+mlruns/
