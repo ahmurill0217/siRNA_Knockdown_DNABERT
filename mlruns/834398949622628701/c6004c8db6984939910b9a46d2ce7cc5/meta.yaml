@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/834398949622628701/c6004c8db6984939910b9a46d2ce7cc5/artifacts
+deleted_time: 1742365389972
+end_time: 1742363427419
+entry_point_name: ''
+experiment_id: '834398949622628701'
+lifecycle_stage: deleted
+run_id: c6004c8db6984939910b9a46d2ce7cc5
+run_name: suave-skink-283
+run_uuid: c6004c8db6984939910b9a46d2ce7cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742363425290
+status: 4
+tags: []
+user_id: angelmurillo

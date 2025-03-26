@@ -15,10 +15,10 @@ The dataset is a collection of 2431 siRNA sequences, their corresponding mRNA ta
 
 # Results
 The model achieves a Pearson correlation coefficient of 0.6 on the validation dataset.
-![alt text](model_training_metrics/best_model_3/best_model_3_training_metrics.png)
-
+![alt text](https://raw.githubusercontent.com/ahmurill0217/siRNA_Knockdown_DNABERT/main/model_training_metrics/best_model_3/best_model_3_training_metrics.png)
 
 Additional, the model achieves a Pearson correlation coefficient of 0.53 on the test set (a never before seen dataset).
-![alt text](model_training_metrics/best_model_3/best_model_3_testset_results.png)
+![alt text](https://raw.githubusercontent.com/ahmurill0217/siRNA_Knockdown_DNABERT/main/model_training_metrics/best_model_3/best_model_3_testset_results.png)
+
 
 

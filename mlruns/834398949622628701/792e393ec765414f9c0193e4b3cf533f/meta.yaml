@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/834398949622628701/792e393ec765414f9c0193e4b3cf533f/artifacts
+deleted_time: 1742365389971
+end_time: 1742365208860
+entry_point_name: ''
+experiment_id: '834398949622628701'
+lifecycle_stage: deleted
+run_id: 792e393ec765414f9c0193e4b3cf533f
+run_name: clean-donkey-556
+run_uuid: 792e393ec765414f9c0193e4b3cf533f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742365206466
+status: 4
+tags: []
+user_id: angelmurillo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/834398949622628701/af20528f08524e9aba6ef8350b7b9304/artifacts
+deleted_time: 1742365389972
+end_time: 1742364592998
+entry_point_name: ''
+experiment_id: '834398949622628701'
+lifecycle_stage: deleted
+run_id: af20528f08524e9aba6ef8350b7b9304
+run_name: welcoming-sheep-853
+run_uuid: af20528f08524e9aba6ef8350b7b9304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742364592711
+status: 4
+tags: []
+user_id: angelmurillo

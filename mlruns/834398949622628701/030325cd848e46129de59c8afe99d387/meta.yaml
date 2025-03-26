@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/834398949622628701/030325cd848e46129de59c8afe99d387/artifacts
+deleted_time: 1742365389972
+end_time: 1742364565256
+entry_point_name: ''
+experiment_id: '834398949622628701'
+lifecycle_stage: deleted
+run_id: 030325cd848e46129de59c8afe99d387
+run_name: chill-hen-373
+run_uuid: 030325cd848e46129de59c8afe99d387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742364564882
+status: 4
+tags: []
+user_id: angelmurillo
